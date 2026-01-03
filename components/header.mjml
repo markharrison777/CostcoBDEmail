@@ -24,9 +24,9 @@
   <mj-column width="100%" align="center" padding="0">
     <mj-image alt="costcoBD_logo" href="https://www.costcobusinessdelivery.com/" style="align: center" margin="0 auto" target="_blank" width="134px" height="40px" align="center" src="http://127.0.0.1:5500/assets/CostcoBD_logo.webp" />
   </mj-column>
-  <mj-column>
+  <!-- <mj-column>
     <mj-text color="#737474" font-family="Helvetica Neue, Arial, Helvetica, sans-serif;" font-size="12px" align="center" padding="0px"> &nbsp; </mj-text>
-  </mj-column>
+  </mj-column> -->
 </mj-section>
 
 <mj-section padding="0">
