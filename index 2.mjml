@@ -7,7 +7,7 @@
     </mj-style>
     <mj-style inline="inline">
       body { max-width: 696px; margin: 0 auto; } .icons-size { max-width: 280px; padding: 40px 0 30px; } .header { background-color: #ffffff; color="#737474" } .section-padding { padding-left: 30px; padding-right: 30px; } .footer {
-      background-image: url(''); background-size: 620px; } .content-background { background-color: #ffffff; }
+      background-image: url(''); background-size: 696px; } .content-background { background-color: #ffffff; }
     </mj-style>
   </mj-head>
   <mj-body background-color="#ffffff">
@@ -18,16 +18,17 @@
       <mj-include path="./components/header.mjml" />
       <!-- END HEADER SECTION -->
       <mj-raw>
-        <!-- HERO SECTION -->
+        <!-- HERO HEADER LINKS SECTION -->
       </mj-raw>
-      <mj-section padding="0px" width="100%">
+      <mj-section padding="0px" margin="0" width="100%">
         <mj-column width="25%" align="center" padding="5px 10px">
           <mj-image
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/savings-event.html"
             style="align: center; display: block"
-            margin="0 auto"
+            margin="0"
             padding="0"
+            font-size="0"
             border-radius="10px"
             target="_blank"
             width="150px"
@@ -41,8 +42,9 @@
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/s?keyword=instant+savings&ref=toprow"
             style="align: center; display: block"
-            margin="0 auto"
+            margin="0"
             padding="0"
+            font-size="0"
             border-radius="10px"
             target="_blank"
             width="150px"
@@ -56,8 +58,9 @@
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/s?keyword=New&what%27s-new=new&refine=%7C%7CWhat_s_New_attr-NEW"
             style="align: center; display: block"
-            margin="0 auto"
+            margin="0"
             padding="0"
+            font-size="0"
             border-radius="10px"
             target="_blank"
             width="150px"
@@ -71,8 +74,9 @@
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/OrderByItemsDisplayViewBD?ref=toprow"
             style="align: center; display: block"
-            margin="0 auto"
+            margin="0"
             padding="0"
+            font-size="0"
             border-radius="10px"
             target="_blank"
             width="150px"
@@ -83,28 +87,34 @@
         </mj-column>
       </mj-section>
       <mj-raw>
-        <!-- 2 Column image with text -->
+        <!-- END HERO HEADER LINKS SECTION -->
+      </mj-raw>
+      <mj-raw>
+        <!-- MAIN HERO IMAGE -->
       </mj-raw>
       <mj-section>
-        <mj-column width="100%">
+        <mj-column width="100%" padding="0">
           <mj-image
             href="https://www.costcobusinessdelivery.com/companyoverview.html"
             target="_blank"
-            padding-bottom="20px"
+            width="696px"
+            padding="0"
+            margin="0"
+            font-size="0"
             src="http://127.0.0.1:5500/assets/costcobd-hero1.webp"
             style="src: https://cdn.bfldr.com/52U6WI5T/at/pvr98gwghb4zpcw8jsn4s75z/lp-companyoverview-hero.jpg?auto=webp&format=jpg"
           />
         </mj-column>
       </mj-section>
       <mj-raw>
-        <!-- 3 Lines -->
+        <!-- END MAIN HERO IMAGE -->
       </mj-raw>
       <mj-raw>
-        <!-- Bottom Center Text-->
+        <!-- CTA LM SECTION-->
       </mj-raw>
       <mj-section padding="40px 40px 20px 40px">
         <mj-column>
-          <mj-text align="center" font-size="20px" font-weight="bold" line-height="20px" color="#212b35"> Running a business like yours isn't a desk job. Keep it from becoming one with the Shopify app. </mj-text>
+          <mj-text align="center" font-size="20px" font-weight="bold" line-height="20px" color="#212b35">Spend $250 or more free delivery on us...!!! </mj-text>
         </mj-column>
       </mj-section>
       <mj-raw>
