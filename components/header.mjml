@@ -1,0 +1,36 @@
+<mj-raw>
+  <!-- Header -->
+</mj-raw>
+
+<mj-section css-class="header" padding="10px 0px 10px 0px">
+  <mj-column>
+    <mj-text color="#737474" font-family="Helvetica Neue, Arial, Helvetica, sans-serif;" font-size="12px" align="center" padding="0px">
+      <a
+        href="https://data.digital.costco.com/ee/v1/webview?params=v1.fmAyUOYqgqF3ZssxvgqWpLcOtr-yQ7qc8xgQQGei1mvupsQervpOEy-wqRZOleXXdq6yZHdRL4JUx1jOoWqQDEwSexPf4mbxfzOrEd2TxqIINv6P00QLxARKFIKAG-iivRTyyceklc7CFzhfHsXTCDT4ZOqk6RUfykvmbZhrLkeaApw4F3e-AWmKUj7LB1XpeoMi0T_xoeCOcC-7PmvQ-lIwED5JXyY_AB8yKEiVivoUcM0LIsWEtiYmFhIKkb3FlPrU8Ez5FOvnFqmzk9_PU4kTxDqMOmfYe5Fs-3Ks8RcIA9r_WxJ-P6JZ4ZFT&configId=e544e3a0-7485-453d-a0b6-39229f6afe35&pid=v1.8KPdnLWkLkTl_Wg_rdYznGlqXZoMtZ8AZKnwARABUYsvsueJayMJM4CaTzaWwgV4Ukqq5lFvaK1DclVQRt-kp3iCbY7td5wffGhGXuvFDKYwKOlgXAU3zDAQvJWIPGb62h9yfUosDIzn4hE8xNBzMs0fkfJK7mWqyVSLInOorl7wLipZjgKQT88zxugmDsniOaKkoEZHaviNLTs1IgLxQcELsR3H56CbZvzN9A&p=v1.wwv17-teOkP4VhgxgzDb5SMr1ZaV02YZmb6RT7QMcjj5Kax_1MWWW1JcRercd3IyZd3eGBRXepoZYRYy64UyWrsOI_Qw_n5FAeEgE7uPVozMBHG-q6gtskrPrE9Y8uZIX2sNitFb63kNCvFNpuuK3-qpofRFoEwHd8KPMRJ8r45RdcuET99a9jzEJHJ1bXgo3c-WrtqxQQji5kpqG-2op7EX6QHkYB2hQ1UOIw35hQNoKtWlBrdumpZ05DRY7wfKSLrayXHk_P8r8KZBGCQrsx7wJgpSMxjXp57os-Cb7oGQ-RC4yjcFEIrQ9BgqjI-w-afLPxrGkTsBC5pAwhLRV9IZdrlRPG_6yuZDvDK2KqysuLybIG7RjfgWky_Z22D1_hle3fy2IRtanYCAZBlSyARZn2Cmdw-yRMY7YDTSSAkHs3crL13Vq26qTOCm7EIRUOm20HRMlb_fwHC1M4mWqzywqEPSEm0IaYQp3PrgfP7WDpp3DeU2bF3oCei_m6oJl_YhEAqjnyviMWo74h37doi5wS6YGpafl1pYhXfCaEDWw9QM7e8V7ob0SiSYa-gCOTYyYEx3v3epo3_bG5YlcjpL9ZeI-EvvNIei0geM8wCFc-1_TsNxp6PBd6f6SoRAjne2YQxkw2a545WRgNppjZ0eqe6J9SgKklP7DA&t=1766873255167"
+        style="color: #737474; text-decoration: underline"
+        >View in browser.</a
+      >
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column padding="0">
+    <mj-divider padding="0" style="line-height: 0; font-size: 0" border-width="1px" border-color="#e0e0e0" />
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0px">
+  <mj-column width="100%" align="center" padding="0">
+    <mj-image alt="costcoBD_logo" href="https://www.costcobusinessdelivery.com/" style="align: center" margin="0 auto" target="_blank" width="134px" height="40px" align="center" src="http://127.0.0.1:5500/assets/CostcoBD_logo.webp" />
+  </mj-column>
+  <mj-column>
+    <mj-text color="#737474" font-family="Helvetica Neue, Arial, Helvetica, sans-serif;" font-size="12px" align="center" padding="0px"> &nbsp; </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding="0">
+  <mj-column padding="0">
+    <mj-divider padding="0" border-width="1px" border-color="#e0e0e0" />
+  </mj-column>
+</mj-section>
