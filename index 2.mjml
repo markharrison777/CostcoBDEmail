@@ -6,7 +6,7 @@
       none; } }
     </mj-style>
     <mj-style inline="inline">
-      .icons-size { max-width: 280px; padding: 40px 0 30px; } .header { background-color: #ffffff; color="#737474" } .section-padding { padding-left: 30px; padding-right: 30px; } .footer { background-image: url(''); background-size: 600px;
+      .icons-size { max-width: 280px; padding: 40px 0 30px; } .header { background-color: #ffffff; color="#737474" } .section-padding { padding-left: 30px; padding-right: 30px; } .footer { background-image: url(''); background-size: 620px;
       } .content-background { background-color: #ffffff; }
     </mj-style>
   </mj-head>
@@ -21,54 +21,62 @@
         <!-- HERO SECTION -->
       </mj-raw>
       <mj-section padding="0px" width="100%">
-        <mj-column width="25%" align="center" padding="0">
+        <mj-column width="25%" align="center" padding="5px 10px">
           <mj-image
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/savings-event.html"
             style="align: center; display: block"
             margin="0 auto"
+            padding="0"
+            border-radius="10px"
             target="_blank"
-            width="200px"
-            height="auto"
+            width="150px"
+            height="50px"
             align="center"
             src="http://127.0.0.1:5500/assets/savings_event.webp"
           />
         </mj-column>
-        <mj-column width="25%" align="center" padding="0">
+        <mj-column width="25%" align="center" padding="5px 10px">
           <mj-image
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/s?keyword=instant+savings&ref=toprow"
             style="align: center; display: block"
             margin="0 auto"
+            padding="0"
+            border-radius="10px"
             target="_blank"
-            width="162px"
-            height="40px"
+            width="150px"
+            height="50px"
             align="center"
             src="http://127.0.0.1:5500/assets/instant_savings.webp"
           />
         </mj-column>
-        <mj-column width="25%" align="center" padding="0">
+        <mj-column width="25%" align="center" padding="5px 10px">
           <mj-image
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/s?keyword=New&what%27s-new=new&refine=%7C%7CWhat_s_New_attr-NEW"
             style="align: center; display: block"
             margin="0 auto"
+            padding="0"
+            border-radius="10px"
             target="_blank"
-            width="100%"
-            height="40px"
+            width="150px"
+            height="50px"
             align="center"
             src="http://127.0.0.1:5500/assets/whatsnew.webp"
           />
         </mj-column>
-        <mj-column width="25%" align="center" padding="0">
+        <mj-column width="25%" align="center" padding="5px 10px">
           <mj-image
             alt="costcoBD_logo"
             href="https://www.costcobusinessdelivery.com/OrderByItemsDisplayViewBD?ref=toprow"
             style="align: center; display: block"
             margin="0 auto"
+            padding="0"
+            border-radius="10px"
             target="_blank"
-            width="162px"
-            height="40px"
+            width="150px"
+            height="50px"
             align="center"
             src="http://127.0.0.1:5500/assets/orderbyitem.webp"
           />
