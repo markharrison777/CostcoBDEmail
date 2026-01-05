@@ -7,7 +7,7 @@
     </mj-style>
     <mj-style inline="inline">
       .icons-size { max-width: 280px; padding: 40px 0 30px; } .header { background-color: #ffffff; color: #737474; } .section-padding { padding-left: 30px; padding-right: 30px; } .footer { padding: 0; margin: 0; background-size: 696px; }
-      .footer-text { padding: 10px 0px 0px 0px !important; } .content-background { background-color: #ffffff; }
+      .footer-text { padding: 10px 0px 0px 0px !important; width: 100%; } .content-background { background-color: #ffffff; }
     </mj-style>
   </mj-head>
 
