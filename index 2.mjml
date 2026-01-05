@@ -6,10 +6,11 @@
       none; } }
     </mj-style>
     <mj-style inline="inline">
-      body { max-width: 696px; margin: 0 auto; } .icons-size { max-width: 280px; padding: 40px 0 30px; } .header { background-color: #ffffff; color="#737474" } .section-padding { padding-left: 30px; padding-right: 30px; } .footer { width:
-      696px; padding: 0; margin: 0; background-size: 696px; } .content-background { background-color: #ffffff; }
+      .icons-size { max-width: 280px; padding: 40px 0 30px; } .header { background-color: #ffffff; color: #737474; } .section-padding { padding-left: 30px; padding-right: 30px; } .footer { padding: 0; margin: 0; background-size: 696px; }
+      .footer-text { padding: 10px 0px 0px 0px !important; } .content-background { background-color: #ffffff; }
     </mj-style>
   </mj-head>
+
   <mj-body background-color="#ffffff">
     <mj-wrapper css-class="content-background" padding="0">
       <mj-raw>
@@ -120,7 +121,7 @@
       <mj-raw>
         <!-- 2 App Icons -->
       </mj-raw>
-      <mj-section padding="0">
+      <!-- <mj-section padding="0">
         <mj-group>
           <mj-column padding="0">
             <mj-image padding="0 5px" align="right" href="https://apple.com" src="http://127.0.0.1:5500/assets/appstore.png" width="150px" height="43px" />
@@ -129,12 +130,14 @@
             <mj-image padding="0 5px" align="left" href="https://apple.com" src="http://127.0.0.1:5500/assets/android.png" width="150px" height="43px" />
           </mj-column>
         </mj-group>
-      </mj-section>
+      </mj-section> -->
       <mj-raw>
         <!-- Footer -->
       </mj-raw>
-
       <mj-include path="./components/footer.mjml" />
+      <mj-raw>
+        <!-- END Footer -->
+      </mj-raw>
     </mj-wrapper>
   </mj-body>
 </mjml>
