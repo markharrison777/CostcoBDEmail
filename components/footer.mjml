@@ -3,7 +3,7 @@
 </mj-raw>
 <mj-wrapper css-class="footer" padding="0px">
   <mj-section padding="0">
-    <mj-column width="696px">
+    <mj-column>
       <mj-text css-class="footer-text" font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;" padding="12px 0px 12px 0px" font-size="12px" line-height="14px" color="#333333">
         Not all items are available at all Costco locations and selection and pricing may vary. Alaska, Hawaii and Puerto Rico may be higher than the advertised price. Items shipped to Alaska, Hawaii and Puerto Rico will include an
         additional shipping and handling fee. See Costco.com for the most current information.
