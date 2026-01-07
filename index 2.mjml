@@ -111,6 +111,26 @@
       <mj-raw>
         <!-- END MAIN HERO IMAGE -->
       </mj-raw>
+
+      <mj-raw>
+        <!-- Help Your Business-->
+      </mj-raw>
+      <mj-section padding="0px 0 0 0" width="100%" background-color="#ffffff">
+        <mj-column>
+          <mj-text width="100%" align="center" font-size="36px" font-weight="bold" line-height="40px" color="#000000">Discover How We Can Help Your Business</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 40px 40px 40px" background-color="#ffffff">
+        <mj-column>
+          <mj-button css-class="costco_btn" href="https://www.costcobusinessdelivery.com/companyoverview.html" background-color="#015FAE" color="#ffffff" font-size="16px" font-weight="bold" border-radius="4px" padding="12px 40px" width="200px">
+            Learn More
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- END Help Your Business-->
+      </mj-raw>
+
       <mj-raw>
         <!-- CTA LM SECTION-->
       </mj-raw>
@@ -126,6 +146,10 @@
           </mj-button>
         </mj-column>
       </mj-section>
+      <mj-raw>
+        <!-- END CTA LM SECTION-->
+      </mj-raw>
+
       <mj-raw>
         <!-- App Banner -->
       </mj-raw>
