@@ -157,7 +157,7 @@
               align="center"
               font-size="24px"
               font-weight="400"
-              line-height="10px"
+              line-height="20px"
               color="#be5b68"
             >Food Service
             </mj-text>
@@ -167,6 +167,7 @@
               font-size="16px"
               font-weight="bold"
               color="#000000"
+              line-height="20px"
             >From kitchen to customer
             </mj-text>
             <mj-text
@@ -175,21 +176,25 @@
               font-size="14px"
               color="#000000"
               padding="0"
+              line-height="20px"
             >
               Discover high quality, fresh ingredients...
             </mj-text>
-            <a
+            <mj-text align="center" font-size="20px">
+
+              <a
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               style="text-decoration: underline; color: #015fae"
               align="center">
-              Learn More
+              Learn More-->
             </a>
+            </mj-text>
           </mj-column>
 
         <!-- Office/Row 2 -->
           <mj-column width="50%" padding="10px">
             <mj-image
-              href="https://www.costcobusinessdelivery.com/foodservice.html"
+              href="https://www.costcobusinessdelivery.com/officesupplies.html"
               target="_blank"
               width="300px"
               height="auto"
@@ -202,7 +207,7 @@
               align="center"
               font-size="24px"
               font-weight="400"
-              line-height="10px"
+              line-height="20px"
               color="#003399"
             >
               Office Supplies
@@ -213,6 +218,8 @@
               font-size="16px"
               font-weight="bold"
               color="#000000"
+              line-height="20px"
+
             >
               Essential items for business..
             </mj-text>
@@ -222,15 +229,18 @@
               font-size="14px"
               color="#000000"
               padding="0"
+              line-height="20px"
             >
               Keep your office working smoothly with Costco Business Center....
             </mj-text>
-            <a
+            <mj-text align="center" font-size="20px">
+              <a
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               style="text-decoration: underline; color: #015fae"
               align="center">
-              Learn More
+              Learn More-->
             </a>
+            </mj-text>
           </mj-column>
         </mj-section>
 
@@ -254,6 +264,7 @@
               font-weight="400"
               line-height="10px"
               color="#008B7C"
+              line-height="20px"
             >
               C-Store
             </mj-text>
@@ -263,6 +274,7 @@
               font-size="16px"
               font-weight="bold"
               color="#000000"
+              line-height="20px"
             >
               Expansive variety of individually packaged products
             </mj-text>
@@ -272,15 +284,21 @@
               font-size="14px"
               color="#000000"
               padding="0"
+              line-height="20px"
             >
               Fill your shelves in one stop...
             </mj-text>
-            <a
+            <mj-text align="center" font-size="20px">
+              <a
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               style="text-decoration: underline; color: #015fae"
               align="center">
-              Learn More
+              Learn More-->
             </a>
+            </mj-text>
+            <mj-text align="center" font-size="16px" line-height="20px" color="015fae" target="_blank">
+              <a href="https://customerservice.costcobusinessdelivery.com/app/answers/answer_view/a_id/7378/loc/en_US" style="color: #015fae; target:_blank">Need Help with Tax Exemption?</a>
+            </mj-text>
           </mj-column>
 
         <!-- Office/Row 2 -->
@@ -301,6 +319,7 @@
               font-weight="400"
               line-height="10px"
               color="#34B458"
+              line-height="20px"
             >
               Volume Sales
             </mj-text>
@@ -310,6 +329,7 @@
               font-size="16px"
               font-weight="bold"
               color="#000000"
+              line-height="20px"
             >
               Domestic or Export
             </mj-text>
@@ -319,15 +339,18 @@
               font-size="14px"
               color="#000000"
               padding="0"
+              line-height="20px"
             >
               Take advantage of competitive pricing...
             </mj-text>
-            <a
+            <mj-text align="center" font-size="20px">
+              <a
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               style="text-decoration: underline; color: #015fae"
               align="center">
-              Learn More
+              Learn More-->
             </a>
+            </mj-text>
           </mj-column>
         </mj-section>
         <mj-raw>
