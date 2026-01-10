@@ -180,6 +180,17 @@
             >
               Discover high quality, fresh ingredients...
             </mj-text>
+            <mj-text
+              href="https://www.costcobusinessdelivery.com/foodservice.html"
+              background-color="#015FAE"
+              color="#015FAE"
+              font-size="16px"
+              font-weight="bold"
+              text-align="center"
+              width="100%"
+            >
+              Learn More -->
+            </mj-text>
           </mj-column>
         </mj-section>
 
