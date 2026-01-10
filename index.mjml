@@ -139,9 +139,10 @@
             >Discover How We Can Help Your Business</mj-text
           >
         </mj-section>
-        <!-- FoodService/Row 1 -->
-        <mj-section>
-          <mj-column width="50%">
+        <!-- FoodService & Office Section -->
+        <mj-section padding="40px 20px">
+          <!-- left column FoodService -->
+          <mj-column width="50%" padding="10px">
             <mj-image
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               target="_blank"
@@ -151,17 +152,14 @@
               margin="0"
               src="https://bfasset.costco-static.com/52U6WI5T/at/9jnj94hp4qp8h3589snn5gmw/ft-industry-foodservice.jpg?auto=webp&format=jpg&width=1400"
             />
-          </mj-column>
-          <mj-column width="50%" padding="0px 0 0 0">
             <mj-text
               font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
               align="center"
-              font-size="25px"
+              font-size="24px"
               font-weight="400"
               line-height="10px"
               color="#be5b68"
-            >
-              Food Service
+            >Food Service
             </mj-text>
             <mj-text
               font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
@@ -169,46 +167,27 @@
               font-size="16px"
               font-weight="bold"
               color="#000000"
-            >
-              From kitchen to customer
+            >From kitchen to customer
             </mj-text>
             <mj-text
               font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
               align="center"
               font-size="14px"
               color="#000000"
+              padding="0"
             >
               Discover high quality, fresh ingredients...
             </mj-text>
-            <mj-text
+            <a
               href="https://www.costcobusinessdelivery.com/foodservice.html"
-              background-color="#015FAE"
-              color="#015FAE"
-              font-size="16px"
-              font-weight="bold"
-              text-align="center"
-              width="100%"
-            >
-              Learn More -->
-            </mj-text>
+              style="text-decoration: underline; color: #015fae"
+              align="center">
+              Learn More
+            </a>
           </mj-column>
-        </mj-section>
 
         <!-- Office/Row 2 -->
-        <mj-section>
-          <mj-column width="50%" padding="0px 0 0 0">
-            <mj-text
-              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
-              align="center"
-              font-size="25px"
-              font-weight="400"
-              line-height="40px"
-              color="#003399"
-            >
-              Office Supplies
-            </mj-text>
-          </mj-column>
-          <mj-column width="50%">
+          <mj-column width="50%" padding="10px">
             <mj-image
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               target="_blank"
@@ -218,51 +197,47 @@
               margin="0"
               src="https://cdn.bfldr.com/52U6WI5T/at/9pppkmq67mmh7jnw8rh8wmsm/ft-industry-office_1.psd?auto=webp&format=psd"
             />
-          </mj-column>
-        </mj-section>
-
-        <!-- C-Store/Row 3 -->
-        <mj-section>
-          <mj-column width="50%">
-            <mj-image
-              href="https://www.costcobusinessdelivery.com/foodservice.html"
-              target="_blank"
-              width="300px"
-              height="auto"
-              padding="0"
-              margin="0"
-              src="https://bfasset.costco-static.com/52U6WI5T/at/9jnj94hp4qp8h3589snn5gmw/ft-industry-foodservice.jpg?auto=webp&format=jpg&width=1400"
-            />
-          </mj-column>
-          <mj-column width="50%" padding="0px 0 0 0">
             <mj-text
               font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
               align="center"
-              font-size="25px"
+              font-size="24px"
               font-weight="400"
-              line-height="40px"
-              color="#be5b68"
-            >
-              Food Service
-            </mj-text>
-          </mj-column>
-        </mj-section>
-
-        <!-- VolumeSales/Row 4 -->
-        <mj-section>
-          <mj-column width="50%" padding="0px 0 0 0">
-            <mj-text
-              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
-              align="center"
-              font-size="25px"
-              font-weight="400"
-              line-height="40px"
+              line-height="10px"
               color="#003399"
             >
               Office Supplies
             </mj-text>
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="16px"
+              font-weight="bold"
+              color="#000000"
+            >
+              Essential items for business..
+            </mj-text>
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="14px"
+              color="#000000"
+              padding="0"
+            >
+              Keep your office working smoothly with Costco Business Center....
+            </mj-text>
+            <a
+              href="https://www.costcobusinessdelivery.com/foodservice.html"
+              style="text-decoration: underline; color: #015fae"
+              align="center">
+              Learn More
+            </a>
           </mj-column>
-          <mj-column width="50%">
+        </mj-section>
+
+        <!-- C-Store & V-Sales Section -->
+        <mj-section padding="40px 20px">
+          <!-- left column FoodService -->
+          <mj-column width="50%" padding="10px">
             <mj-image
               href="https://www.costcobusinessdelivery.com/foodservice.html"
               target="_blank"
@@ -270,12 +245,90 @@
               height="auto"
               padding="0"
               margin="0"
-              src="https://cdn.bfldr.com/52U6WI5T/at/9pppkmq67mmh7jnw8rh8wmsm/ft-industry-office_1.psd?auto=webp&format=psd"
+              src="https://bfasset.costco-static.com/52U6WI5T/at/q7nkfshcjm79rnthpjrvv/ft-industry-cstore.jpg?auto=webp&format=jpg&width=1400"
             />
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="24px"
+              font-weight="400"
+              line-height="10px"
+              color="#008B7C"
+            >
+              C-Store
+            </mj-text>
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="16px"
+              font-weight="bold"
+              color="#000000"
+            >
+              Expansive variety of individually packaged products
+            </mj-text>
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="14px"
+              color="#000000"
+              padding="0"
+            >
+              Fill your shelves in one stop...
+            </mj-text>
+            <a
+              href="https://www.costcobusinessdelivery.com/foodservice.html"
+              style="text-decoration: underline; color: #015fae"
+              align="center">
+              Learn More
+            </a>
           </mj-column>
-        </mj-section>
-        <mj-section padding="20px 40px 40px 40px" background-color="#ffffff">
-          <mj-column> </mj-column>
+
+        <!-- Office/Row 2 -->
+          <mj-column width="50%" padding="10px">
+            <mj-image
+              href="https://www.costcobusinessdelivery.com/foodservice.html"
+              target="_blank"
+              width="300px"
+              height="auto"
+              padding="0"
+              margin="0"
+              src="https://cdn.bfldr.com/52U6WI5T/at/st2wkx9zxwpc4mqgrxknx8tm/ft-industry-volumesales_1.psd?auto=webp&format=psd"
+            />
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="24px"
+              font-weight="400"
+              line-height="10px"
+              color="#34B458"
+            >
+              Volume Sales
+            </mj-text>
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="16px"
+              font-weight="bold"
+              color="#000000"
+            >
+              Domestic or Export
+            </mj-text>
+            <mj-text
+              font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
+              align="center"
+              font-size="14px"
+              color="#000000"
+              padding="0"
+            >
+              Take advantage of competitive pricing...
+            </mj-text>
+            <a
+              href="https://www.costcobusinessdelivery.com/foodservice.html"
+              style="text-decoration: underline; color: #015fae"
+              align="center">
+              Learn More
+            </a>
+          </mj-column>
         </mj-section>
         <mj-raw>
           <!-- END Help Your Business-->
