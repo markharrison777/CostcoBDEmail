@@ -31,38 +31,41 @@
         <!-- HERO HEADER LINKS SECTION -->
       </mj-raw>
       <mj-section padding="10px 0px 10px 0px" margin="0" width="100%">
-        <mj-column width="25%" align="center" padding="5px 0px">
-          <mj-image
-            alt="Savings Event link"
-            href="https://www.costcobusinessdelivery.com/savings-event.html"
-            style="align: center; display: block"
-            margin="0"
-            padding="0"
-            font-size="0"
-            border-radius="10px"
-            target="_blank"
-            width="150px"
-            height="50px"
-            align="center"
-            src="https://bfasset.costco-static.com/52U6WI5T/at/hh7nq9xjpgt5gtv6hkkt4b3/tr-btn-event5.psd?auto=webp&format=jpg&width=1400"
-          />
-        </mj-column>
-        <mj-column width="25%" align="center" padding="5px 10px">
-          <mj-image
-            alt="Instant Savings link"
-            href="https://www.costcobusinessdelivery.com/s?keyword=instant+savings&ref=toprow"
-            style="align: center; display: block"
-            margin="0"
-            padding="0"
-            font-size="0"
-            border-radius="10px"
-            target="_blank"
-            width="150px"
-            height="50px"
-            align="center"
-            src="https://bfasset.costco-static.com/52U6WI5T/at/jcv3jxtz6447p7nt5q69v6/tr-btn-allsavings.jpg?auto=webp&format=jpg&width=1400"
-          />
-        </mj-column>
+        <mj-group>
+          <mj-column align="center" padding="5px 0px">
+            <mj-image
+              alt="Savings Event link"
+              href="https://www.costcobusinessdelivery.com/savings-event.html"
+              style="align: center; display: block"
+              margin="0"
+              padding="0"
+              font-size="0"
+              border-radius="10px"
+              target="_blank"
+              width="150px"
+              height="50px"
+              align="center"
+            
+              src="https://bfasset.costco-static.com/52U6WI5T/at/hh7nq9xjpgt5gtv6hkkt4b3/tr-btn-event5.psd?auto=webp&format=jpg&width=1400"
+            />
+          </mj-column>
+          <mj-column align="center" padding="5px 10px">
+            <mj-image
+              alt="Instant Savings link"
+              href="https://www.costcobusinessdelivery.com/s?keyword=instant+savings&ref=toprow"
+              style="align: center; display: block"
+              margin="0"
+              padding="0"
+              font-size="0"
+              border-radius="10px"
+              target="_blank"
+              width="150px"
+              height="50px"
+              align="center"
+              src="https://bfasset.costco-static.com/52U6WI5T/at/jcv3jxtz6447p7nt5q69v6/tr-btn-allsavings.jpg?auto=webp&format=jpg&width=1400"
+            />
+          </mj-column>
+        </mj-group>
         <mj-column width="25%" align="center" padding="5px 10px">
           <mj-image
             alt="What's New link"
@@ -159,7 +162,7 @@
               font-weight="400"
               line-height="20px"
               color="#be5b68"
-            >Food Service
+              >Food Service
             </mj-text>
             <mj-text
               font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
@@ -168,7 +171,7 @@
               font-weight="bold"
               color="#000000"
               line-height="20px"
-            >From kitchen to customer
+              >From kitchen to customer
             </mj-text>
             <mj-text
               font-family="'Helvetica Neue', Arial, Helvetica, sans-serif;"
@@ -181,17 +184,17 @@
               Discover high quality, fresh ingredients...
             </mj-text>
             <mj-text align="center" font-size="20px">
-
               <a
-              href="https://www.costcobusinessdelivery.com/foodservice.html"
-              style="text-decoration: underline; color: #015fae"
-              align="center">
-              Learn More-->
-            </a>
+                href="https://www.costcobusinessdelivery.com/foodservice.html"
+                style="text-decoration: underline; color: #015fae"
+                align="center"
+              >
+                Learn More-->
+              </a>
             </mj-text>
           </mj-column>
 
-        <!-- Office/Row 2 -->
+          <!-- Office/Row 2 -->
           <mj-column width="50%" padding="10px">
             <mj-image
               href="https://www.costcobusinessdelivery.com/officesupplies.html"
@@ -219,7 +222,6 @@
               font-weight="bold"
               color="#000000"
               line-height="20px"
-
             >
               Essential items for business..
             </mj-text>
@@ -235,11 +237,12 @@
             </mj-text>
             <mj-text align="center" font-size="20px">
               <a
-              href="https://www.costcobusinessdelivery.com/foodservice.html"
-              style="text-decoration: underline; color: #015fae"
-              align="center">
-              Learn More-->
-            </a>
+                href="https://www.costcobusinessdelivery.com/foodservice.html"
+                style="text-decoration: underline; color: #015fae"
+                align="center"
+              >
+                Learn More-->
+              </a>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -290,18 +293,29 @@
             </mj-text>
             <mj-text align="center" font-size="20px">
               <a
-              href="https://www.costcobusinessdelivery.com/foodservice.html"
-              style="text-decoration: underline; color: #015fae"
-              align="center">
-              Learn More-->
-            </a>
+                href="https://www.costcobusinessdelivery.com/foodservice.html"
+                style="text-decoration: underline; color: #015fae"
+                align="center"
+              >
+                Learn More-->
+              </a>
             </mj-text>
-            <mj-text align="center" font-size="16px" line-height="20px" color="015fae" target="_blank">
-              <a href="https://customerservice.costcobusinessdelivery.com/app/answers/answer_view/a_id/7378/loc/en_US" style="color: #015fae; target:_blank">Need Help with Tax Exemption?</a>
+            <mj-text
+              align="center"
+              font-size="16px"
+              line-height="20px"
+              color="015fae"
+              target="_blank"
+            >
+              <a
+                href="https://customerservice.costcobusinessdelivery.com/app/answers/answer_view/a_id/7378/loc/en_US"
+                style="color: #015fae; target: _blank"
+                >Need Help with Tax Exemption?</a
+              >
             </mj-text>
           </mj-column>
 
-        <!-- Office/Row 2 -->
+          <!-- Office/Row 2 -->
           <mj-column width="50%" padding="10px">
             <mj-image
               href="https://www.costcobusinessdelivery.com/foodservice.html"
@@ -345,11 +359,12 @@
             </mj-text>
             <mj-text align="center" font-size="20px">
               <a
-              href="https://www.costcobusinessdelivery.com/foodservice.html"
-              style="text-decoration: underline; color: #015fae"
-              align="center">
-              Learn More-->
-            </a>
+                href="https://www.costcobusinessdelivery.com/foodservice.html"
+                style="text-decoration: underline; color: #015fae"
+                align="center"
+              >
+                Learn More-->
+              </a>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -360,7 +375,11 @@
       <mj-raw>
         <!-- CTA FreeDelivery SECTION-->
       </mj-raw>
-      <mj-section padding="30px 0 30px 0" width="100%" background-color="#000000">
+      <mj-section
+        padding="30px 0 30px 0"
+        width="100%"
+        background-color="#000000"
+      >
         <mj-column>
           <mj-text
             align="center"
@@ -392,9 +411,14 @@
         <!-- END CTA FreeDelivery SECTION-->
       </mj-raw>
       <mj-raw>
-      <!-- Tour -->
+        <!-- Tour -->
       </mj-raw>
-      <mj-section padding="30px 0 30px 0" width="100%" background-color="#d74c61ff" border="10px solid #245880ff">
+      <mj-section
+        padding="30px 0 30px 0"
+        width="100%"
+        background-color="#d74c61ff"
+        border="10px solid #245880ff"
+      >
         <mj-column>
           <mj-text
             font-family=""
@@ -407,12 +431,14 @@
           >
             Complete a Scheduled Tour and get a $35 Shop Card1
           </mj-text>
-          <mj-text font-family=""
+          <mj-text
+            font-family=""
             align="center"
             font-size="20px"
             color="#ffffff"
             font-weight="100"
-            font-style="italic">
+            font-style="italic"
+          >
             *Contact a Marketing Representative to learn more*
           </mj-text>
           <mj-button
@@ -431,7 +457,7 @@
         </mj-column>
       </mj-section>
       <mj-raw>
-      <!-- End Tour -->
+        <!-- End Tour -->
       </mj-raw>
       <mj-raw>
         <!-- App Banner -->
