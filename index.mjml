@@ -358,9 +358,9 @@
         </mj-raw>
       </mj-section>
       <mj-raw>
-        <!-- CTA LM SECTION-->
+        <!-- CTA FreeDelivery SECTION-->
       </mj-raw>
-      <mj-section padding="30px 0 0 0" width="100%" background-color="#000000">
+      <mj-section padding="30px 0 30px 0" width="100%" background-color="#000000">
         <mj-column>
           <mj-text
             align="center"
@@ -373,10 +373,6 @@
             <span style="color: #e31837; font-size: 42px">FREE</span> delivery
             on us.
           </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section padding="20px 40px 20px 40px" background-color="#000000">
-        <mj-column>
           <mj-button
             css-class="costco_btn"
             href="https://www.costcobusinessdelivery.com/"
@@ -393,9 +389,50 @@
         </mj-column>
       </mj-section>
       <mj-raw>
-        <!-- END CTA LM SECTION-->
+        <!-- END CTA FreeDelivery SECTION-->
       </mj-raw>
-
+      <mj-raw>
+      <!-- Tour -->
+      </mj-raw>
+      <mj-section padding="30px 0 30px 0" width="100%" background-color="#d74c61ff" border="10px solid #245880ff">
+        <mj-column>
+          <mj-text
+            font-family=""
+            align="center"
+            font-size="26px"
+            line-height="40px"
+            color="#ffffff"
+            font-weight="100"
+            font-style="italic"
+          >
+            Complete a Scheduled Tour and get a $35 Shop Card1
+          </mj-text>
+          <mj-text font-family=""
+            align="center"
+            font-size="20px"
+            color="#ffffff"
+            font-weight="100"
+            font-style="italic">
+            *Contact a Marketing Representative to learn more*
+          </mj-text>
+          <mj-button
+            css-class="costco_btn"
+            href="https://www.costcobusinessdelivery.com/warehouse-locations?hasBusiness=true"
+            background-color="#ECECEC"
+            color="#000000"
+            font-size="16px"
+            padding="12px 40px"
+            width="400px"
+            target="_blank"
+            font-weight="100"
+          >
+            Warehouse Information
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+      <!-- End Tour -->
+      </mj-raw>
       <mj-raw>
         <!-- App Banner -->
       </mj-raw>
