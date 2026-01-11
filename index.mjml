@@ -388,6 +388,7 @@
             font-size="36px"
             font-weight="bold"
             line-height="40px"
+            letter-spacing="2px"
             color="#ffffff"
           >
             Spend $250 or more
@@ -418,7 +419,7 @@
       <mj-section
         padding="30px 0 30px 0"
         width="100%"
-        background-color="#d74c61ff"
+        background-color="#fffff"
         border="10px solid #245880ff"
       >
         <mj-column>
@@ -427,7 +428,7 @@
             align="center"
             font-size="26px"
             line-height="40px"
-            color="#ffffff"
+            color="#000000"
             font-weight="100"
             font-style="italic"
           >
@@ -437,7 +438,7 @@
             font-family=""
             align="center"
             font-size="20px"
-            color="#ffffff"
+            color="#000000"
             font-weight="100"
             font-style="italic"
           >
@@ -459,8 +460,9 @@
           <mj-button
             css-class="costco_btn"
             href="https://www.costcobusinessdelivery.com/warehouse-locations?hasBusiness=true"
-            background-color="#ECECEC"
-            color="#000000"
+            background-color="#b23838ff"
+            color="#ffffff
+            "
             font-size="16px"
             padding="12px 40px"
             width="400px"
