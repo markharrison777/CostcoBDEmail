@@ -66,7 +66,8 @@
             />
           </mj-column>
         </mj-group>
-        <mj-column width="25%" align="center" padding="5px 10px">
+        <mj-group>
+        <mj-column align="center" padding="5px 10px">
           <mj-image
             alt="What's New link"
             href="https://www.costcobusinessdelivery.com/s?keyword=New&what%27s-new=new&refine=%7C%7CWhat_s_New_attr-NEW"
@@ -82,7 +83,7 @@
             src="https://bfasset.costco-static.com/52U6WI5T/at/93wcqt5mwhrbv6q7wgpnttnq/tr-btn-whatsnew.jpg?auto=webp&format=jpg&width=1400"
           />
         </mj-column>
-        <mj-column width="25%" align="center" padding="5px 0px">
+        <mj-column align="center" padding="5px 0px">
           <mj-image
             alt="OBIN link"
             href="https://www.costcobusinessdelivery.com/OrderByItemsDisplayViewBD?ref=toprow"
@@ -98,6 +99,7 @@
             src="https://bfasset.costco-static.com/52U6WI5T/at/r8tr6hbg9zpk24sgvgr6cs5j/tr-btn-orderbyitem.jpg?auto=webp&format=jpg&width=1400"
           />
         </mj-column>
+        </mj-group>
       </mj-section>
       <mj-raw>
         <!-- END HERO HEADER LINKS SECTION -->
